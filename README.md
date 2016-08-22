@@ -11,4 +11,10 @@ We're going to revisit your band list app from last week. You are going to add A
 
 #### Step 3: From the command line cd into your band-list-api directory and type 'nodemon' to start your server
 
-#### Step 4: Open another command line tab and cd into band-list-frontend-auth0. Run either `python -m SimpleHTTPServer 4000` or `serve . -p 4000`
+#### Step 4: Open another command line tab and cd into band-list-frontend-auth0. 
+- Run either `python -m SimpleHTTPServer 4000` or `serve . -p 4000` to run your app at `http://localhost:4000`
+
+#### Step 5: Add Auth0 to your front end so a welcome page shows if not logged in and your app shows when logged in
+
+## Tips
+- Refer to the Auth0 documentation for help (https://auth0.com/docs/libraries/lock)
