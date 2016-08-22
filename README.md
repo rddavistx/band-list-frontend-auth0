@@ -19,3 +19,7 @@ We're going to revisit your band list app from last week. You are going to add A
 ## Tips
 - Refer to the Auth0 documentation for help (https://auth0.com/docs/libraries/lock)
 - Remember to edit your index.html file - add the Auth0 script, create divs to hide and/or show depending on if you're logged in or not, add buttons to login/logout
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
